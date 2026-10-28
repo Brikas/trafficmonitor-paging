@@ -4,6 +4,6 @@
 
 ![taskbar](taskbar.png)
 
-Install: run `install.ps1` (needs Visual Studio C++), then enable the items in Display Settings.
+Install: put `PagingMonitor.dll` from [Releases](https://github.com/Brikas/trafficmonitor-paging/releases) into the `plugins` folder next to `TrafficMonitor.exe` (x64), restart TrafficMonitor, enable the items in Display Settings. To build from source, run `install.ps1` (needs Visual Studio C++).
 
 MIT
